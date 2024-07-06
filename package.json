@@ -1,6 +1,6 @@
 {
-  "name": "student_marks_calculator",
-  "version": "1.0.0",
+  "name": "@amnakh/student_marks_calculator",
+  "version": "1.0.1",
   "description": "This is a CLI based marks calculator where students can enter their obtain marks and get the total with their percentages.",
   "main": "index.js",
   "type": "module",
